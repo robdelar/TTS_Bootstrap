@@ -1,0 +1,72 @@
+.jumbotron {
+	background-image:url('assets/palm.jpg');
+	width: 100%;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    /* padding: 20%;
+	
+	
+	margin-top: -40px;
+	
+	background-position:  center -238px; */
+}
+
+.nav-item a{
+    color: white;
+}
+
+.navbar-nav .nav-item{
+    text-align: right;
+}
+
+.navbar-custom{
+    height: 50px;
+}
+
+.jumbotron h1{
+    font-family: Georgia, serif;
+}
+
+.contact{ 
+    background-image:url('assets/sunset.jpg');
+	width: 100%;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+}
+
+.quotes{
+    height: 500px;
+    font-family: Georgia;
+    font-size: 20px;
+}
+
+.divisions{
+    background-color: beige;
+    width: 100%;
+}
+
+.divisions .row{
+    text-align: center;
+    
+    
+}
+.logos{
+    width: 100%;
+    background-image: linear-gradient(to right,rgb(92, 92, 156), rgb(162, 59, 61));
+}
+
+.divisions .row .btn{
+    font-size: 30px;
+    width: 350px;
+    height: 100px;
+    font-family: Georgia, serif;
+}
+.divisions .center{
+    text-align: center;
+    font-size: 30px;
+    font-family: Georgia, serif;
+    margin-bottom: 50px;
+}
